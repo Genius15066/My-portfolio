@@ -9,7 +9,7 @@ body{
 }
 section{
     height:500px;
-    margin-top:60px;
+    margin-top:20px;
 }
 
 /* header start */
@@ -101,6 +101,7 @@ header{
  background:url("Images/dream-bg.png");
  background-repeat: no-repeat;
  background-position: right center;
+
 }
 
 .skill-image{
@@ -123,6 +124,12 @@ header{
     text-align:justify;
     margin-bottom:20px;
 }
+#download{
+    color:rgb(232, 229, 238);
+    font-size: 18px;
+    margin-right: 5px;
+}
+
 /* services section start */
 
 #services-rule{
