@@ -110,7 +110,7 @@ header{
 .skill-image img{
     height:350px;
     width:350px;
-    margin:80px 0px 0px 70px;
+    margin:10px 0px 0px 60px;
 }
 .skill-info{
    margin-top:80px;
@@ -120,7 +120,7 @@ header{
     color:rgb(89, 0, 255);
 }
 .skill-info p{
-    text-align: justify;
+    text-align:justify;
     margin-bottom:20px;
 }
 /* services section start */
