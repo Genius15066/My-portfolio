@@ -130,12 +130,12 @@ header{
     width:4%;
 }
 #services-sec{
-    margin-bottom:200px;
+    margin-bottom:120px;
 }
 
 /* project section start */
 .my-project{
-    background:E5E5E5;
+    background:#E5E5E5;
 }
 .my-project h1{
    font-family: 'Roboto Condensed', sans-serif;
